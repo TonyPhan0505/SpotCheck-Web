@@ -45,5 +45,5 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 <img width="1440" alt="Screenshot 2024-05-24 at 9 31 50 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/dce1f0f9-93bc-4642-b988-2b6f043f0e95">
 <img width="1438" alt="Screenshot 2024-05-24 at 9 30 55 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/19ff302c-704c-4efd-9d68-c899f06e6ad6">
 <img width="1440" alt="Screenshot 2024-05-24 at 9 32 11 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/0b03c037-c63b-4746-9fa9-c4a397aeb429">
-![Screenshot 2024-05-24 at 9 32 11 PM](https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/4f2188ad-129d-473f-bdf7-10e5e42d805a)
+<img width="1440" alt="Screenshot 2024-05-24 at 9 39 47 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/1bae8f25-3ac4-42fc-829a-354a33c7c983">
 
