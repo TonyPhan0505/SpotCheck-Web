@@ -2,7 +2,7 @@
 SpotCheck is a social media company who connects clubs and bars with people who seek nightlife activities in Edmonton via a mobile application. However, the mobile application does not have a portal for the businesses to manage their profiles, their employees and make subscription payments for SpotCheck’s services. Moreover, SpotCheck needs a medium to manage the payments from the clubs and bars. As a solution, our team will develop a web application to enable SpotCheck and the businesses to accomplish the tasks mentioned above. The primary users of this web application are: the employees of the clubs and bars, the employees of SpotCheck. Some employees will be given administrative privileges to edit and delete others’ accounts. The employees, in most cases, have limited technical understanding, therefore our team’s product will offer a user-friendly and intuitive interface on both web and mobile devices. The web application’s backend will also be integrable into the existing backend codebase of the SpotCheck app backend website.
 
 # Live Link:
-Not at liberty share because this is an internal tool.
+Not at liberty to share because this is an internal tool.
 
 # Screencast:
 https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share_link
