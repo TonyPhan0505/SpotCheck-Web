@@ -4,7 +4,7 @@ SpotCheck is a social media company who connects clubs and bars with people who 
 # Live Link:
 Not at liberty to share because this is an internal tool.
 
-# Screencast:
+# Demo:
 https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share_link
 
 # Tech-stack:
@@ -27,22 +27,22 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 11. Analytics.
 
 # Screenshots:
-### 1. Login, Sign up, Reset password:
+### Login, Sign up, Reset password:
 <img width="1437" alt="Screenshot 2024-05-24 at 9 28 47 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/9b445516-2bd4-40ed-9a6b-413eb06ac210">
 <img width="1439" alt="Screenshot 2024-05-24 at 9 29 55 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/a280da2e-2704-42a3-a172-0347fa9e424f">
 <img width="1440" alt="Screenshot 2024-05-24 at 9 29 35 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/702bb82f-3885-4b30-af67-c729d8966916">
 
-### 2. Payment:
+### Payment:
 <img width="1437" alt="Screenshot 2024-05-24 at 9 34 25 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/254fa0e1-27ea-4fa1-8112-f839abe61508">
 <img width="1440" alt="Screenshot 2024-05-24 at 9 34 57 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/3f1c9423-87bb-49c6-9793-91ffb1c28820">
 <img width="1440" alt="Screenshot 2024-05-24 at 9 34 36 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/f0b84ab4-d8e1-4ead-b64a-3b74443104d3">
 <img width="1440" alt="Screenshot 2024-05-24 at 9 35 12 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/633ac970-2e3a-4f9e-a7b0-7062dd269bd4">
 
-### 3. Analytics:
+### Analytics:
 <img width="1440" alt="Screenshot 2024-05-24 at 9 35 32 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/22f34cc3-c4f7-49e7-9710-c1117fba1789">
 <img width="1440" alt="Screenshot 2024-05-24 at 9 36 12 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/5a28e23d-232b-4fd0-a3a0-dfaae5dde0f7">
 
-### 4. Dashboard:
+### Dashboard:
 <img width="1435" alt="Screenshot 2024-05-24 at 9 30 16 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/5190c58b-e37d-4516-9ab2-246d1c9daf65">
 <img width="1439" alt="Screenshot 2024-05-24 at 9 31 40 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/82fd5612-a88e-4747-aa7c-ceafd0d5ac76">
 <img width="1440" alt="Screenshot 2024-05-24 at 9 31 50 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/dce1f0f9-93bc-4642-b988-2b6f043f0e95">
